@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestFirebase</string>
+    <string name="email">e-mail</string>
+    <string name="name">name</string>
+    <string name="send">Send</string>
+    <string name="realTimeDB">Real Time DB</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="password">password</string>
+    <string name="auth">Authentication</string>
+    <string name="error">Error</string>
+</resources>
